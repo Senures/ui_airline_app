@@ -1,16 +1,7 @@
-# air_app_ui
+# AIRLINE APP UI
 
-A new Flutter project.
 
-## Getting Started
+<img width="250" src="https://github.com/Senures/ui_airline_app/blob/main/air-ss/Screenshot_1646837172.png"><img width="250" src="https://github.com/Senures/ui_airline_app/blob/main/air-ss/search_page.png"><img width="250" src="https://github.com/Senures/ui_airline_app/blob/main/air-ss/tickets_page.png"><img width="250" src="https://github.com/Senures/ui_airline_app/blob/main/air-ss/profile_page.png">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
